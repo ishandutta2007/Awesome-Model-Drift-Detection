@@ -69,7 +69,7 @@ The following table summarizes enterprise SaaS platforms specializing in continu
 
 The open-source ecosystem provides powerful statistical libraries, profiling frameworks, and self-hosted drift detection engines.
 
-*(Sorted by GitHub Star count in descending order)*
+*(Sorted by GitHub Stars_Count in descending order)*
 
 - **[Evidently](https://github.com/evidentlyai/evidently)** [![Evidently Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
   🏆 **Most popular open-source ML & LLM observability framework**. Provides 100+ built-in metrics, test suites, and interactive HTML dashboards for statistical data drift (KS-test, PSI, Wasserstein distance), prediction drift, and target drift.
